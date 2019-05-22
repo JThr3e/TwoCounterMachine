@@ -1,0 +1,81 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "debugA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "debugA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "debugA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "debugA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "debugA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "debugA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "debugA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "debugA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "debugB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "debugB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "debugB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "debugB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "debugB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "debugB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "debugB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "debugB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk50mhz",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
